@@ -48,7 +48,7 @@ A 2D Tower Defense game built using C++ and SFML as an Object-Oriented Programmi
 #  How to Run
 
 1. Install SFML on your system  
-2. Open project in Visual Studio / Code::Blocks  
+2. Open project in Visual Studio
 3. Link SFML libraries  
 4. Build and run the project  
 
