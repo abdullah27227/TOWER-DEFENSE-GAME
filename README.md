@@ -65,10 +65,10 @@ Muhammad Abdullah (25L_2518)
 - # 📸 Screenshots
 
 ## Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](gameplay.png)
 
 ## Game Over Screen
-![Game Over](screenshots/gameover.png)
+![Game Over](lose.png)
 
 ## Win Screen
-![Win](screenshots/win.png)
+![Win](win.png)
