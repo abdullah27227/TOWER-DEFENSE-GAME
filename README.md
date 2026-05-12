@@ -67,6 +67,10 @@ Muhammad Abdullah (25L_2518)
 ## Gameplay
 ![Gameplay](gameplay.png)
 
+## Climax
+
+![Climax](gameplay1.png)
+
 ## Game Over Screen
 ![Game Over](lose.png)
 
