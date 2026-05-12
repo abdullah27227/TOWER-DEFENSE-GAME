@@ -61,3 +61,14 @@ Muhammad Abdullah (25L_2518)
 - SFML must be installed to run the game
 - Keep `Abdullah.ttf` in project directory
 - Game uses fixed window size (no fullscreen)
+
+- # 📸 Screenshots
+
+## Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+## Game Over Screen
+![Game Over](screenshots/gameover.png)
+
+## Win Screen
+![Win](screenshots/win.png)
