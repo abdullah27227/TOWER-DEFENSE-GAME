@@ -1,5 +1,5 @@
 # TOWER-DEFENSE-GAME
-Tower defense game made in cpp and sfml
+Tower defense game made in cpp and sfml.
 A 2D Tower Defense game built using C++ and SFML as an Object-Oriented Programming (OOP) project. The game features multiple enemy types, tower upgrades, wave-based progression, and a grid-based map system.
 
 #  Features
